@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8969767150822590514}
   m_Layer: 0
   m_Name: beams_angled_108x109.001
-  m_TagString: Untagged
+  m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
