@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 6243006850545359571}
   - component: {fileID: 8727239869152708425}
   - component: {fileID: -5569496616476738425}
-  - component: {fileID: 8969767150822590514}
   m_Layer: 0
   m_Name: beams_angled_108x109.001
   m_TagString: Object
@@ -93,20 +92,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.08, y: 0.24, z: 1.0799999}
   m_Center: {x: 0.41999996, y: 0.00000923872, z: 0.42001012}
---- !u!114 &8969767150822590514
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 60517587335435677}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c19f3e134862e74dbc98cb514a82ef5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  name: 
-  prefabName: 
-  id: 
-  idParent: 
-  dontSave: 0
